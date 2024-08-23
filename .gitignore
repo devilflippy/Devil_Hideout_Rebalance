@@ -1,0 +1,7 @@
+# Exclude these folders from linting
+/node_modules
+/tmp
+/dist
+
+# Exclude these filetypes from linting
+*.exe
